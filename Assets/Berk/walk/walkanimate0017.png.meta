@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 685ac24e98d004c448e21a69d3aa7478
+guid: 4159b375b8f5e924f8191897fe7a1c55
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1208040086343421634
-    second: image_0
+      213: 3900686588056803964
+    second: walkanimate0017_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: image_0
+      name: walkanimate0017_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1230
-        height: 718
+        x: 421
+        y: 354
+        width: 379
+        height: 714
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2ce8eecde02d3c010800000000000000
-      internalID: 1208040086343421634
+      spriteID: c7a914df8c5022630800000000000000
+      internalID: 3900686588056803964
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      image_0: 1208040086343421634
+      walkanimate0017_0: 3900686588056803964
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

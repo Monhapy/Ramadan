@@ -14,7 +14,9 @@ public class AIChase : MonoBehaviour
 	private bool isWaiting = false;
 	private Transform currentTarget;
 	private float patrolTimer;
-
+	public AudioSource audioSource;
+	
+	public Animator animator;
 	void Start()
 	{
 		currentTarget = patrolPoint1;
@@ -75,6 +77,8 @@ public class AIChase : MonoBehaviour
 			isPatrolling = true;
 			currentTarget = patrolPoint1;
 			patrolTimer = patrolDuration;
+			animator.SetTrigger("Smash");
+			audioSource.Play();
 		}
 	}
 }
