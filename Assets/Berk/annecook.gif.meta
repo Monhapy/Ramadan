@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      annecook_0: 3606422625320363500
+      annecook_1: -3610878867151221096
+      annecook_10: -9121388247916426806
+      annecook_2: -3430392108265103295
+      annecook_3: 4386266225686569178
+      annecook_4: 5815556699396894187
+      annecook_5: 2036510554797482906
+      annecook_6: -9173297432954032188
+      annecook_7: 4097775056538437761
+      annecook_8: -3688222988934571052
+      annecook_9: -8941376885426638773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
